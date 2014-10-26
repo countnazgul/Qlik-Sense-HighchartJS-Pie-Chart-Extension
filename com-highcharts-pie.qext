@@ -1,0 +1,9 @@
+{
+	"name" : "Highcharts Pie Chart",
+	"description" : "Pie chart usin HighchartsJS library. https://github.com/countnazgul/Qlik-Sense-HighchartJS-Pie-Chart-Extension",
+	"icon" : "pie-chart",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "pie",
+	"author": "stefan.stoichev@gmail.com"
+}
